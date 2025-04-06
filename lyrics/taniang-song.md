@@ -28,8 +28,7 @@ kaduk kei na ju ju na jip gai pan theh
 ---
 
 📝 Notes:  
-- “rwi” = soft 'r' after “you” (nang)  
-- “tee tee” = whatever you gave  
-- “pat thoh” = emphasis on repeated action  
-- “chuup” = mimics eating/slurping sound playfully  
-
+- “rwi” = soft 'r' after “you”  
+- “tee tee” = whatever given  
+- “pat thoh” = again & again  
+- “chup” = sucking/snail eating sound  
