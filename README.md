@@ -13,7 +13,17 @@ by **[Gankhiang](https://www.youtube.com/@Gankhiang)**
 - 🔤 [**Phonetic Guide**](phonetic-guide.md) — Spelling rules optimized for AI voice models  
 - 📚 [**Reference Word List**](reference/word-list.md) — For vocabulary and grammar  
 - 🧠 Coming soon: **Voice Tips** — Tuning tips for better generation using AI  
-- 🎧 [**TTS Phonetics**](tts-phonetics/) — Bible narration audio with F5-TTS transcriptions
+- 🎧 [**TTS Phonetics**](tts-phonetics/) — Bible narration audio with F5-TTS transcriptions  
+
+---
+
+## 📂 Language Core Resources
+
+These sections support learning and modeling the Rongmei language beyond song lyrics.
+
+- 📌 [`phonetics/`](phonetics/) — Rules for phonetic spelling, pronunciation, and audio examples  
+- 🧠 [`grammar/`](grammar/) — Sentence structure, tense, suffixes *(in progress)*  
+- 📓 [`wordlist/`](wordlist/) — Common phrases and dictionary-style vocab breakdowns  
 
 ---
 
@@ -40,4 +50,3 @@ More phonetics will be added after testing with F5-TTS.
 ## 📌 About the Project
 
 Gankhiang's goal is to preserve and promote the **Rongmei language** through digital tools — combining traditional lyrics, phonetic tuning for AI singing voices, and speech synthesis. This project is open to collaboration and ongoing updates.
-
