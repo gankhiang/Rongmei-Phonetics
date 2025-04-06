@@ -2,7 +2,7 @@
 A language preservation + AI generation project  
 by **[Gankhiang](https://www.youtube.com/@Gankhiang)**
 
-🎙️ This is a phonetic + lyrical dataset to help AI systems (like Suno AI) understand, sing, and pronounce **Rongmei** language accurately. It combines custom phonetic spellings, original lyrics, and line-by-line English translations.
+🎙️ This is a phonetic + lyrical dataset to help AI systems (like Suno AI or F5-TTS) understand, sing, and pronounce **Rongmei** language accurately. It combines custom phonetic spellings, original lyrics, and line-by-line English translations.
 
 ---
 
@@ -12,62 +12,32 @@ by **[Gankhiang](https://www.youtube.com/@Gankhiang)**
 - 📜 [**Translations**](translations/taniang-explained.md) — English line-by-line breakdowns  
 - 🔤 [**Phonetic Guide**](phonetic-guide.md) — Spelling rules optimized for AI voice models  
 - 📚 [**Reference Word List**](reference/word-list.md) — For vocabulary and grammar  
-- 🧠 Coming soon: **Voice Tips** — Tuning tips for better generation using AI
+- 🧠 Coming soon: **Voice Tips** — Tuning tips for better generation using AI  
+- 🎧 [**TTS Phonetics**](tts-phonetics/) — Bible narration audio with F5-TTS transcriptions
 
 ---
 
-## 🎧 Featured Song: *Taniang* 🐌
+## ✅ Verified Phonetics (Preview)
 
-▶️ [Listen to Audio](audio/taniang.mp3)  
-A humorous Rongmei folk-style song about eating snail curry — featuring custom phonetics and AI vocals.
+| Rongmei Word | AI Phonetic | Pronunciation Hint | Meaning |
+|--------------|-------------|--------------------|---------|
+| Rui          | `rwi`       | ruh-yee            | You (suffix form) |
+| Thou         | `thow`      | thau / thow        | Who |
+| Thay / The   | `theh`      | th-hay             | Did / action marker |
+| Ganmei       | `man`       | Simplified         | Man / person |
+| Tuna         | `tuna`      | too-nah            | Woman / female |
+| Gaanh Meih   | `gaanh meih`| bright-light       | Light / brightness |
+| Gan          | `gan`       | gun                | Curry |
+| Mei / Meih   | `meih`      | meh-ee             | People / subject word |
+| Amei         | `a mei`     | ah - mei           | My people (a = my, mei = people) |
+| Khou         | `khow`      | kha-ow             | On / at / to (e.g., "nang khou") |
+| Tabui Chou   | `tabui chow`| sharp "chow"       | What? (In strong expression) |
 
-> "nang rwi tee tee meih ganh ni tu kan nak theh"  
-> _“I’ve been eating whatever curry you gave me for a long time.”_
-
----
-
-## 🔡 Phonetic Style
-
-To ensure smooth AI pronunciation, we adjust Rongmei words into easier spellings for Suno AI:
-
-| Rongmei Sound | AI Phonetic Used | Why? |
-|---------------|------------------|------|
-| Rui           | `rwi`            | Softer & natural tone for AI models |
-| Thay          | `theh`           | Avoids Thai-sounding misread |
-| Kan Nak       | `kan nak`        | Indicates "long time" fluency |
-| Chup Pat      | `chup pat`       | Natural syllables for "suck it out" |
-
-See full: [Phonetic Guide](phonetic-guide.md)
+More phonetics will be added after testing with F5-TTS.
 
 ---
 
-## 🎥 About Gankhiang
+## 📌 About the Project
 
-**Gankhiang** is a creative Rongmei entertainment channel focused on:
-- 🎬 Rongmei films & short videos  
-- 🎵 Traditional + modern music videos  
-- 🤖 Experimental AI + language preservation  
+Gankhiang's goal is to preserve and promote the **Rongmei language** through digital tools — combining traditional lyrics, phonetic tuning for AI singing voices, and speech synthesis. This project is open to collaboration and ongoing updates.
 
-📺 YouTube: [Gankhiang](https://www.youtube.com/@Gankhiang)
-
----
-
-## 🤝 Contribute
-
-Want to help grow this project?
-
-- 📝 Add phonetic lyrics or new songs  
-- 🎧 Upload sample MP3s  
-- ✍️ Help refine translations or word list  
-- 🔁 Fork the repo, submit PRs, or collaborate
-
----
-
-## 📄 License
-
-Open source for educational, cultural, and research use.  
-Attribution appreciated when using any lyrics or phonetic patterns.
-
----
-
-Preserving Rongmei, one AI note at a time. 🎶
