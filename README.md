@@ -24,7 +24,7 @@ by **[Gankhiang](https://www.youtube.com/@Gankhiang)**
 | Rui          | `rwi`       | ruh-yee            | You (suffix form) |
 | Thou         | `thow`      | thau / thow        | Who |
 | Thay / The   | `theh`      | th-hay             | Did / action marker |
-| Ganmei       | `man`       | Simplified         | Man / person |
+| Ganmei       | `gan meih`  | Simplified         | Man / person |
 | Tuna         | `tuna`      | too-nah            | Woman / female |
 | Gaanh Meih   | `gaanh meih`| bright-light       | Light / brightness |
 | Gan          | `gan`       | gun                | Curry |
