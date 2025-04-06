@@ -16,28 +16,58 @@ by **[Gankhiang](https://www.youtube.com/@Gankhiang)**
 
 ---
 
-## 🔡 Sample Lyric (Taniang Snail Song)
+## 🎧 Featured Song: *Taniang* 🐌
 
-> _"Taniang gan tu dat rakho, nang rwi tee tee meih ganh ni tu kan nak theh..."_  
-> *(“I’ve been eating all the snail curry you gave me again and again…”)*
+▶️ [Listen to Audio](audio/taniang.mp3)  
+A humorous Rongmei folk-style song about eating snail curry — featuring custom phonetics and AI vocals.
 
----
-
-## 🤖 For AI Projects
-
-- Optimized for [Suno AI](https://suno.ai) and similar platforms  
-- Sound-friendly phonetic adjustments (e.g., `rwi` for softened “r”)  
-- Designed to make models pronounce Rongmei more naturally
+> "nang rwi tee tee meih ganh ni tu kan nak theh"  
+> _“I’ve been eating whatever curry you gave me for a long time.”_
 
 ---
 
-## 🧠 Why This Project?
+## 🔡 Phonetic Style
 
-🌀 Rongmei is a deep and expressive language, but underrepresented online.  
-By creating phonetic-friendly data + artistic content, we help AI learn it — and we preserve it in the process.
+To ensure smooth AI pronunciation, we adjust Rongmei words into easier spellings for Suno AI:
+
+| Rongmei Sound | AI Phonetic Used | Why? |
+|---------------|------------------|------|
+| Rui           | `rwi`            | Softer & natural tone for AI models |
+| Thay          | `theh`           | Avoids Thai-sounding misread |
+| Kan Nak       | `kan nak`        | Indicates "long time" fluency |
+| Chup Pat      | `chup pat`       | Natural syllables for "suck it out" |
+
+See full: [Phonetic Guide](phonetic-guide.md)
 
 ---
 
-## 📬 Contact  
-Made with ❤️ by [Gankhiang](https://www.youtube.com/@Gankhiang)  
-Reach out to contribute or share AI results!
+## 🎥 About Gankhiang
+
+**Gankhiang** is a creative Rongmei entertainment channel focused on:
+- 🎬 Rongmei films & short videos  
+- 🎵 Traditional + modern music videos  
+- 🤖 Experimental AI + language preservation  
+
+📺 YouTube: [Gankhiang](https://www.youtube.com/@Gankhiang)
+
+---
+
+## 🤝 Contribute
+
+Want to help grow this project?
+
+- 📝 Add phonetic lyrics or new songs  
+- 🎧 Upload sample MP3s  
+- ✍️ Help refine translations or word list  
+- 🔁 Fork the repo, submit PRs, or collaborate
+
+---
+
+## 📄 License
+
+Open source for educational, cultural, and research use.  
+Attribution appreciated when using any lyrics or phonetic patterns.
+
+---
+
+Preserving Rongmei, one AI note at a time. 🎶
