@@ -9,7 +9,6 @@ by **[Gankhiang](https://www.youtube.com/@Gankhiang)**
 ## 📁 What's Inside
 
 - 🎵 [**Lyrics**](songs/) — Written in phonetic Rongmei for Suno AI  
-- 📜 [**Translations**](translations/readme.md) — English line-by-line breakdowns  
 - 🔤 [**Phonetic Guide**](phonetic-guide.md) — Spelling rules optimized for AI voice models  
 - 📚 [**Reference Word List**](reference/word-list.md) — For vocabulary and grammar  
 - 🧠 Coming soon: **Voice Tips** — Tuning tips for better generation using AI  
