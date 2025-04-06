@@ -14,11 +14,15 @@
 ## 🎤 Lyrics (Phonetic)
 
 taniang gan tu dat ra kho asei thoh
+
 nang rwi tee tee meih ganh ni tu kan nak theh.
+
 asei thoh taniang gan ngou pat thoh.
 
 gan neng gan ni tu lian lak kheh.
+
 ruaidui gan ni tu lian lak kheh.
+
 gan khiang gan ni tu khiang pat theh.
 
 taniang gan tu dat rakho.
