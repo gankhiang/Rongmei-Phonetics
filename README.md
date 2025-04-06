@@ -1,60 +1,19 @@
-# Rongmei AI Language Kit
+# Rongmei Phonetics for AI & Music
 
-A phonetic + lyrical resource to help AI systems learn, pronounce, and generate Rongmei language content.
+🎙️ A community-driven project to teach AI models (like Suno) how to understand, pronounce, and generate **Rongmei** language content — through lyrics, phonetics, and translations.
 
----
-
-## 📁 Structure
-
-```
-rongmei-ai-language-kit/
-├── README.md
-├── phonetic-guide.md
-├── suno-tips.md
-├── lyrics/
-│   ├── taniang-song.md
-├── translations/
-│   ├── taniang-explained.md
-└── reference/
-    ├── word-list.md
-    └── pronunciation-notes.md
-```
+> 📁 Repo by [Gankhiang](https://www.youtube.com/@Gankhiang) — dedicated to preserving and celebrating Rongmei through music + AI.
 
 ---
 
-## 📜 Lyrics: "Taniang Gan Tu"
+## 🔤 What’s Inside
 
-### [Verse 1]
-taniang gan tu dat ra kho asei thoh  
-nang rwi tee tee meih ganh ni tu kan nak theh  
-asei thoh taniang gan ngou pat thoh  
-
-### [Pre-Chorus]
-gan neng gan ni tu lian lak kheh  
-ruaidui gan ni tu lian lak kheh  
-gan khiang gan ni tu khiang pat theh  
-
-### [Chorus]
-taniang gan tu dat rakho  
-jian meih leh, nang ta hoi na bam me  
-taniang gan tee tu low dat tho  
-chup chup chup chup chup pat na  
-kaduk kei na ju ju na jip gai pan theh  
+- 🎵 **Lyrics & Songs** — Written in Rongmei phonetics optimized for AI models  
+- 🔠 **Phonetic System** — How we tweak spellings to match correct AI pronunciation  
+- 🌍 **English Translations** — Line-by-line lyric breakdowns for context  
+- 🧠 **AI Voice Tips** — Best practices for generating with tools like Suno
 
 ---
 
-## 📘 Translation Summary (English)
-- This song is about enjoying snail curry (taniang gan).
-- It reflects on a playful and nostalgic tone — someone enjoying curry that someone else gave them a long time ago.
-- The chorus brings humor and repetition to make it catchy for singing.
+## 📁 Folder Structure
 
----
-
-## 🔠 Phonetic Strategy for AI (e.g., Suno)
-- "rwi" instead of "rui" to soften the rolled "r"
-- "theh" instead of "thai" to avoid sounding like "Thai"
-- Double sounds like "tee tee", "chu chu" for rhythm and clarity
-
----
-
-More files coming soon!
