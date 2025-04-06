@@ -7,11 +7,8 @@
 ---
 
 ## 🎧 Audio  
-<!-- Embed audio player directly into the markdown -->
-<audio controls>
-  <source src="taniang.mp3" type="audio/mp3">
-  Your browser does not support the audio element.
-</audio>
+▶️ [Listen to MP3](taniang.mp3)
+
 ---
 
 ## 🎤 Lyrics (Phonetic)
