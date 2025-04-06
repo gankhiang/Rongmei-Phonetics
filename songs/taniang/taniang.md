@@ -26,14 +26,21 @@ ruaidui gan ni tu lian lak kheh.
 gan khiang gan ni tu khiang pat theh.
 
 taniang gan tu dat rakho.
+
 jian meih leh, nang ta hoi na bam me.
+
 taniang gan tee tu low dat tho.
+
 chup chup chup chup chup pat na.
+
 kaduk kei na ju ju na jip gai pan theh.
 
 thow kai khow nai puni cho,
+
 jian pui nang dang khow nai puni bo.
+
 tu low makna jip kei sih puang de.
+
 asei jing bang.
 
 
