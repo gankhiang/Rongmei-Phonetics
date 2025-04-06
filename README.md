@@ -8,11 +8,11 @@ by **[Gankhiang](https://www.youtube.com/@Gankhiang)**
 
 ## 📁 What's Inside
 
-- 🎵 **Lyrics** — Written in phonetic Rongmei for Suno AI  
-- 📜 **Translations** — English line-by-line breakdowns  
-- 🔤 **Phonetic Guide** — Spelling rules optimized for AI voice models  
-- 📚 **Reference Word List** — For vocabulary and grammar  
-- 🧠 **Voice Tips** — Tuning tips for better generation using AI
+- 🎵 [**Lyrics**](lyrics/taniang-song.md) — Written in phonetic Rongmei for Suno AI  
+- 📜 [**Translations**](translations/taniang-explained.md) — English line-by-line breakdowns  
+- 🔤 [**Phonetic Guide**](phonetic-guide.md) — Spelling rules optimized for AI voice models  
+- 📚 [**Reference Word List**](reference/word-list.md) — For vocabulary and grammar  
+- 🧠 Coming soon: **Voice Tips** — Tuning tips for better generation using AI
 
 ---
 
@@ -41,4 +41,3 @@ By creating phonetic-friendly data + artistic content, we help AI learn it — a
 ## 📬 Contact  
 Made with ❤️ by [Gankhiang](https://www.youtube.com/@Gankhiang)  
 Reach out to contribute or share AI results!
-
