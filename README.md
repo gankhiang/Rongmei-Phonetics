@@ -8,7 +8,7 @@ by **[Gankhiang](https://www.youtube.com/@Gankhiang)**
 
 ## 📁 What's Inside
 
-- 🎵 [**Lyrics**](lyrics/taniang-song.md) — Written in phonetic Rongmei for Suno AI  
+- 🎵 [**Lyrics**](songs/) — Written in phonetic Rongmei for Suno AI  
 - 📜 [**Translations**](translations/taniang-explained.md) — English line-by-line breakdowns  
 - 🔤 [**Phonetic Guide**](phonetic-guide.md) — Spelling rules optimized for AI voice models  
 - 📚 [**Reference Word List**](reference/word-list.md) — For vocabulary and grammar  
