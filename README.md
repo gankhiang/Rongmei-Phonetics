@@ -42,6 +42,7 @@ These sections support learning and modeling the Rongmei language beyond song ly
 | Khou         | `khow`      | kha-ow             | On / at / to (e.g., "nang khou") |
 | Tabui Chou   | `tabui chow`| sharp "chow"       | What? (In strong expression) |
 | jing bang    | `zing bahng`| zing ba ahng       | night time |
+| bou          | `bou`       | bow  dog bark      | fall       |
 
 More phonetics will be added after testing with F5-TTS.
 
