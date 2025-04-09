@@ -33,16 +33,16 @@ These sections support learning and modeling the Rongmei language beyond song ly
 | Rui          | `rwi`       | ruh-yee            | You (suffix form) |
 | Thou         | `thow`      | thau / thow        | Who |
 | Thay / The   | `theh`      | th-hay             | Did / action marker |
-| Ganmei       | `gan meih`  | Simplified         | Man / person |
+| Ganmei       | `gaan meih` | ga an mei          | Man / person |
 | Tuna         | `tuna`      | too-nah            | Woman / female |
-| Gaanh Meih   | `gaanh meih`| bright-light       | Light / brightness |
+| Gaanh Meih   | `gaanh meih`| ga ahn mei         | Light / brightness |
 | Gan          | `gan`       | gun                | Curry |
-| Mei / Meih   | `meih`      | meh-ee             | People / subject word |
+| Mei / Meih   | `meih`      | ma eye             | People / subject word |
 | Amei         | `a mei`     | ah - mei           | My people (a = my, mei = people) |
 | Khou         | `khow`      | kha-ow             | On / at / to (e.g., "nang khou") |
-| Tabui Chou   | `tabui chow`| sharp "chow"       | What? (In strong expression) |
+| Tabui Chou   | `tabui chow`| cha ow             | What? (In strong expression) |
 | jing bang    | `zing bahng`| zing ba ahng       | night time |
-| bou          | `bou`       | bow  dog bark      | fall       |
+| bou          | `bou`       | ba ow              | fall       |
 
 More phonetics will be added after testing with F5-TTS.
 
